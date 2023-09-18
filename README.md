@@ -1,4 +1,4 @@
-# Assignment1
+# Project1
 #Weather Prediction
 
 We have conducted a data analysis on weather data. Here's a brief discussion of what we did:
